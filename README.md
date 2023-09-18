@@ -57,5 +57,7 @@ Keywords : Deep Learning, Convolutional Neural Network (CNN), You Only Look
 Once (YOLO), Early Blight, Late Blight
 
 Dataset: https://drive.google.com/file/d/1UwtR3dcTv6ghTlfQGp8AcQtIbu6ZsApR/view?usp=sharing
+
 Sampel hasil deteksi: https://drive.google.com/drive/folders/1GZmaUwjFdv4XN-ywgXS_jDbX_NhaCexx?usp=sharing
+
 Model: YOLOv5m, YOLOv6m, YOLOv7, YOLOv8m
