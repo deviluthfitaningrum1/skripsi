@@ -25,6 +25,7 @@ ms. YOLOv6m dipilih sebagai model terbaik karena YOLOv6m menghasilkan akurasi
 deteksi yang sebanding dengan kompleksitas model dan waktu komputasinya. Deteksi
 YOLOv6m mencapai hasil akurasi yang tinggi, baik pada citra terstruktur maupun citra
 tidak terstruktur.
+
 Kata kunci : Deep Learning, Convolutional Neural Network (CNN), You Only Look Once
 (YOLO), Early Blight, Late Blight
 
@@ -51,5 +52,10 @@ million parameters, the training time is 1,55 hours, and the detection time is 2
 YOLOv6m was chosen as the best model because YOLOv6m produces detection accura-
 cy that is comparable with model complexity and computation time. YOLOv6m detection
 achieves high accuracy results, both on structured image and unstructured image.
+
 Keywords : Deep Learning, Convolutional Neural Network (CNN), You Only Look
 Once (YOLO), Early Blight, Late Blight
+
+Dataset: https://drive.google.com/file/d/1UwtR3dcTv6ghTlfQGp8AcQtIbu6ZsApR/view?usp=sharing
+Sampel hasil deteksi: https://drive.google.com/drive/folders/1GZmaUwjFdv4XN-ywgXS_jDbX_NhaCexx?usp=sharing
+Model: YOLOv5m, YOLOv6m, YOLOv7, YOLOv8m
