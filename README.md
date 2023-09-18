@@ -53,6 +53,3 @@ cy that is comparable with model complexity and computation time. YOLOv6m detect
 achieves high accuracy results, both on structured image and unstructured image.
 Keywords : Deep Learning, Convolutional Neural Network (CNN), You Only Look
 Once (YOLO), Early Blight, Late Blight
-xiv
-
-
